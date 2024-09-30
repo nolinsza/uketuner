@@ -1,9 +1,4 @@
-# Ukulele tuner 
-
-This is a fully functional ukulele tuner. 
-
-[Demonstration - YouTube Link]()
-<br>  
+# Ukulele tuner  
 
 ## Project Overview
 
